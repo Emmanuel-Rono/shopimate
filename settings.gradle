@@ -16,3 +16,4 @@ rootProject.name = "shopimate"
 include ':app'
 include ':Data'
 include ':Domain'
+include ':Presentation'
